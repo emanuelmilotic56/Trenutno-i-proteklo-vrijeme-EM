@@ -1,0 +1,10 @@
+C:\Users\Milotić\source\repos\Proteklo i tekuće vrijeme-EM\Proteklo i tekuće vrijeme-EM\bin\Debug\Proteklo i tekuće vrijeme-EM.exe.config
+C:\Users\Milotić\source\repos\Proteklo i tekuće vrijeme-EM\Proteklo i tekuće vrijeme-EM\bin\Debug\Proteklo i tekuće vrijeme-EM.exe
+C:\Users\Milotić\source\repos\Proteklo i tekuće vrijeme-EM\Proteklo i tekuće vrijeme-EM\bin\Debug\Proteklo i tekuće vrijeme-EM.pdb
+C:\Users\Milotić\source\repos\Proteklo i tekuće vrijeme-EM\Proteklo i tekuće vrijeme-EM\obj\Debug\Proteklo i tekuće vrijeme-EM.csprojAssemblyReference.cache
+C:\Users\Milotić\source\repos\Proteklo i tekuće vrijeme-EM\Proteklo i tekuće vrijeme-EM\obj\Debug\Proteklo_i_tekuće_vrijeme_EM.Form1.resources
+C:\Users\Milotić\source\repos\Proteklo i tekuće vrijeme-EM\Proteklo i tekuće vrijeme-EM\obj\Debug\Proteklo_i_tekuće_vrijeme_EM.Properties.Resources.resources
+C:\Users\Milotić\source\repos\Proteklo i tekuće vrijeme-EM\Proteklo i tekuće vrijeme-EM\obj\Debug\Proteklo i tekuće vrijeme-EM.csproj.GenerateResource.cache
+C:\Users\Milotić\source\repos\Proteklo i tekuće vrijeme-EM\Proteklo i tekuće vrijeme-EM\obj\Debug\Proteklo i tekuće vrijeme-EM.csproj.CoreCompileInputs.cache
+C:\Users\Milotić\source\repos\Proteklo i tekuće vrijeme-EM\Proteklo i tekuće vrijeme-EM\obj\Debug\Proteklo i tekuće vrijeme-EM.exe
+C:\Users\Milotić\source\repos\Proteklo i tekuće vrijeme-EM\Proteklo i tekuće vrijeme-EM\obj\Debug\Proteklo i tekuće vrijeme-EM.pdb
